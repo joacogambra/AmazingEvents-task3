@@ -5,3 +5,4 @@
 * .reduce , .filter , .includes
 * addEventListener
 * arrow functions
+[AmazingEvents task3](https://joacogambra.github.io/AmazingEvents-task3/)
